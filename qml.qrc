@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Prot/45.png</file>
+        <file>Prot/47.png</file>
+        <file>Prot/48.png</file>
+        <file>Prot/af1.png</file>
+        <file>Prot/logo.png</file>
+        <file>Prot/TextEdit.png</file>
+        <file>users.db</file>
+    </qresource>
+    <qresource prefix="/qml"/>
+</RCC>

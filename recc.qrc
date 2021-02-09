@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.png</file>
+        <file>44.jpg</file>
+        <file>pb_exit.png</file>
+        <file>pb_hide.png</file>
+        <file>fifa.png</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
